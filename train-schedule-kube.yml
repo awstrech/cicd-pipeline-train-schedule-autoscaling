@@ -26,7 +26,7 @@ spec:
       app: train-schedule
   template:
     metadata:
-      labels:
+    labels:
         app: train-schedule
     spec:
       containers:
